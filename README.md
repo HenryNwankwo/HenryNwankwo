@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi, there! <img src="https://res.cloudinary.com/dxrmhv6fy/image/upload/v1685087300/waving_hand_v6li6c.gif" width="28px" alt="👋"></h1>
+
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Henry but my friends call me Mormeni<br />
+        A software developer<br/>
+        Currently learning Data Analysis<br />
+        Open to collaborating on interesting and innovative projects.<br />
+    </i><br>    
+</p>
 
 <!--
 **mormeni/mormeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
