@@ -3,8 +3,8 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Henry but my friends call me Mormeni<br />
-        A software developer<br/>
+        I'm Henry <br />
+        A software developer <br/>
         Currently learning Data Analysis<br />
         Open to collaborating on interesting and innovative projects.<br />
     </i><br>    
