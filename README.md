@@ -7,7 +7,13 @@
         A software developer <br/>
         Currently learning Data Analysis<br />
         Open to collaborating on interesting and innovative projects.<br />
-    </i><br>    
+    </i><br>   
+     <a href="https://www.linkedin.com/in/nwankwo-henry-ifunanya/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://www.kaggle.com/ifunanyahenrynwankwo">
+        <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle">
+    </a> 
 </p>
 
 <!--
