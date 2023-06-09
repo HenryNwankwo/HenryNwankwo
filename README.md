@@ -12,9 +12,16 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.kaggle.com/ifunanyahenrynwankwo">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle">
+        <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
     </a> 
 </p>
+
+### Languages
+
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/mormeni)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)](https://github.com/mormeni)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=brightgreen)](https://github.com/mormeni)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql&logoColor=yellow)](https://github.com/mormeni)
 
 <!--
 **mormeni/mormeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
