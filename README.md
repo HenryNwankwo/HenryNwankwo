@@ -23,6 +23,15 @@
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=brightgreen)](https://github.com/mormeni)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql&logoColor=yellow)](https://github.com/mormeni)
 
+### Technologies & Frameworks
+
+[![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node.js)](https://github.com/mormeni)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/mormeni)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/mormeni)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/mormeni)
+[![Kaggle](https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/mormeni)
+[![TailwindCSS](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/mormeni)
+
 <!--
 **mormeni/mormeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
