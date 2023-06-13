@@ -22,6 +22,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)](https://github.com/mormeni)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=brightgreen)](https://github.com/mormeni)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql&logoColor=yellow)](https://github.com/mormeni)
+[![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=lightgreen)](https://github.com/mormeni)
 
 ### Technologies & Frameworks
 
@@ -31,6 +32,7 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/mormeni)
 [![Kaggle](https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/mormeni)
 [![TailwindCSS](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/mormeni)
+[![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/mormeni)
 
 <!--
 **mormeni/mormeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
