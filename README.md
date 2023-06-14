@@ -37,13 +37,13 @@
 <details>
 <p align="center">
   <a href="https://github.com/mormeni">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mormeni&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mormeni&theme=vue" />
   </a>
   <a href="https://github.com/mormeni">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mormeni&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mormeni&hide_border=true&card_width=338&theme=vue" />
   </a>
   <a href="https://github.com/mormeni">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mormeni&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mormeni&theme=vue" />
   </a>  
 </p>
 </details>
