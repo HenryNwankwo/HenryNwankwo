@@ -33,6 +33,9 @@
 [![Kaggle](https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/mormeni)
 [![TailwindCSS](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/mormeni)
 [![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/mormeni)
+[![Tableau](https://img.shields.io/badge/tableau-black?style=for-the-badge&logo=tableau&logoColor=#E97627)](https://github.com/mormeni)
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=#F05032)](https://github.com/mormeni)
+[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=#181717)](https://github.com/mormeni)
 
 <details>
 <p align="center">
