@@ -36,6 +36,7 @@
 [![Tableau](https://img.shields.io/badge/tableau-black?style=for-the-badge&logo=tableau&logoColor=#E97627)](https://github.com/mormeni)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=#F05032)](https://github.com/mormeni)
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=#181717)](https://github.com/mormeni)
+[![Chakra UI](https://img.shields.io/badge/chakraui-black?style=for-the-badge&logo=chakraui&logoColor=lightgreen)](https://github.com/mormeni)
 
 <details>
 <p align="center">
